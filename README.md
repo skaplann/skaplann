@@ -1,4 +1,4 @@
-Hi I'm Sude Kaplan. I was a mathematics student at Boğaziçi University and now I'm a freshman at Bilken University and my new major is CS. I'm interested in Python and Java.
+
 
 
 <!---
